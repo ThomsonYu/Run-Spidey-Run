@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Venom\venom.png</Source>
+      <Name>Venom\venom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Venom\venom.xnb</Output>
+      <Time>2014-05-28T10:08:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Venom\venom2.png</Source>
+      <Name>Venom\venom2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Venom\venom2.xnb</Output>
+      <Time>2014-05-28T10:08:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Venom\SpriteSheet.png</Source>
+      <Name>Venom\SpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Venom\SpriteSheet.xnb</Output>
+      <Time>2014-05-29T11:02:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\citySprite.png</Source>
+      <Name>Objects&amp;Background\citySprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\citySprite.xnb</Output>
+      <Time>2014-05-29T09:35:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\explosionsheet.png</Source>
+      <Name>Objects&amp;Background\explosionsheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\explosionsheet.xnb</Output>
+      <Time>2014-05-30T10:49:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\Barrels Cropped.png</Source>
+      <Name>Objects&amp;Background\Barrels Cropped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\Barrels Cropped.xnb</Output>
+      <Time>2014-06-05T09:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\bomb.png</Source>
+      <Name>Objects&amp;Background\bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\bomb.xnb</Output>
+      <Time>2014-06-05T09:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\ExplosionStrip.png</Source>
+      <Name>Objects&amp;Background\ExplosionStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\ExplosionStrip.xnb</Output>
+      <Time>2014-06-11T09:16:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\SpiderManSpriteSheet.png</Source>
+      <Name>Spiderman\SpiderManSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Spiderman\SpiderManSpriteSheet.xnb</Output>
+      <Time>2014-06-05T09:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\HowToPlay.png</Source>
+      <Name>Objects&amp;Background\HowToPlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\HowToPlay.xnb</Output>
+      <Time>2014-06-11T11:02:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects&amp;Background\Title.png</Source>
+      <Name>Objects&amp;Background\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Objects&amp;Background\Title.xnb</Output>
+      <Time>2014-06-16T17:40:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-06-12T21:26:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\explosion1.wav</Source>
+      <Name>Sounds&amp;Music\explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\explosion1.xnb</Output>
+      <Time>2014-06-13T00:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\selectBack.wav</Source>
+      <Name>Sounds&amp;Music\selectBack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\selectBack.xnb</Output>
+      <Time>2014-06-13T00:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\selectUp.wav</Source>
+      <Name>Sounds&amp;Music\selectUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\selectUp.xnb</Output>
+      <Time>2014-06-13T00:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\jump1.wav</Source>
+      <Name>Sounds&amp;Music\jump1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\jump1.xnb</Output>
+      <Time>2014-06-13T10:33:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme1.mp3</Source>
+      <Name>Sounds&amp;Music\theme1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme1.xnb</Output>
+      <Extra>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme1.wma</Extra>
+      <Time>2014-06-13T00:06:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme2.mp3</Source>
+      <Name>Sounds&amp;Music\theme2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme2.xnb</Output>
+      <Extra>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme2.wma</Extra>
+      <Time>2014-06-13T00:06:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme3.mp3</Source>
+      <Name>Sounds&amp;Music\theme3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme3.xnb</Output>
+      <Extra>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme3.wma</Extra>
+      <Time>2014-06-13T00:06:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme4.mp3</Source>
+      <Name>Sounds&amp;Music\theme4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme4.xnb</Output>
+      <Extra>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme4.wma</Extra>
+      <Time>2014-06-13T00:06:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme5.mp3</Source>
+      <Name>Sounds&amp;Music\theme5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme5.xnb</Output>
+      <Extra>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\Sounds&amp;Music\theme5.wma</Extra>
+      <Time>2014-06-13T00:06:14-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\My Documents\spidermanGame\FinalProject\FinalProjectContent\</RootDirectory>
+      <LoggerRootDirectory>F:\My Documents\spidermanGame\FinalProject\FinalProject\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\My Documents\spidermanGame\FinalProject\FinalProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\My Documents\spidermanGame\FinalProject\FinalProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-13T13:45:49.5564698-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

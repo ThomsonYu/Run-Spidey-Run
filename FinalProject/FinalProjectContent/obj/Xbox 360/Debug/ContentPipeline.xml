@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>venom.png</Source>
+      <Name>venom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\venom.xnb</Output>
+      <Time>2014-05-28T10:08:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>venom2.png</Source>
+      <Name>venom2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\venom2.xnb</Output>
+      <Time>2014-05-28T10:08:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet.png</Source>
+      <Name>SpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\SpriteSheet.xnb</Output>
+      <Time>2014-05-29T11:02:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>citySprite.png</Source>
+      <Name>citySprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\citySprite.xnb</Output>
+      <Time>2014-05-29T09:35:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosionsheet.png</Source>
+      <Name>explosionsheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\explosionsheet.xnb</Output>
+      <Time>2014-05-30T10:49:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Barrels Cropped.png</Source>
+      <Name>Barrels Cropped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Barrels Cropped.xnb</Output>
+      <Time>2014-06-05T09:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.png</Source>
+      <Name>bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\bomb.xnb</Output>
+      <Time>2014-06-05T09:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionStrip.png</Source>
+      <Name>ExplosionStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\ExplosionStrip.xnb</Output>
+      <Time>2014-06-11T09:16:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpiderManSpriteSheet.png</Source>
+      <Name>SpiderManSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\SpiderManSpriteSheet.xnb</Output>
+      <Time>2014-06-05T09:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HowToPlay.png</Source>
+      <Name>HowToPlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\HowToPlay.xnb</Output>
+      <Time>2014-06-11T11:02:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\font.xnb</Output>
+      <Time>2014-06-12T21:26:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\explosion1.wav</Source>
+      <Name>Sounds&amp;Music\explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\explosion1.xnb</Output>
+      <Time>2014-06-13T00:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\selectBack.wav</Source>
+      <Name>Sounds&amp;Music\selectBack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\selectBack.xnb</Output>
+      <Time>2014-06-13T00:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\selectUp.wav</Source>
+      <Name>Sounds&amp;Music\selectUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\selectUp.xnb</Output>
+      <Time>2014-06-13T00:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\jump1.wav</Source>
+      <Name>Sounds&amp;Music\jump1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\jump1.xnb</Output>
+      <Time>2014-06-13T10:33:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme1.mp3</Source>
+      <Name>Sounds&amp;Music\theme1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme1.xnb</Output>
+      <Extra>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme1.wma</Extra>
+      <Time>2014-06-13T00:06:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme2.mp3</Source>
+      <Name>Sounds&amp;Music\theme2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme2.xnb</Output>
+      <Extra>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme2.wma</Extra>
+      <Time>2014-06-13T00:06:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme3.mp3</Source>
+      <Name>Sounds&amp;Music\theme3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme3.xnb</Output>
+      <Extra>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme3.wma</Extra>
+      <Time>2014-06-13T00:06:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme4.mp3</Source>
+      <Name>Sounds&amp;Music\theme4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme4.xnb</Output>
+      <Extra>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme4.wma</Extra>
+      <Time>2014-06-13T00:06:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds&amp;Music\theme5.mp3</Source>
+      <Name>Sounds&amp;Music\theme5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme5.xnb</Output>
+      <Extra>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\Sounds&amp;Music\theme5.wma</Extra>
+      <Time>2014-06-13T00:06:14-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProjectContent\</RootDirectory>
+      <LoggerRootDirectory>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProjectContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\FinalProject 13 06 2014 - Thomson&amp;Jordan\FinalProject\FinalProject\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-06T15:08:53.623019-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
